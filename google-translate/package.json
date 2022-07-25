@@ -3,7 +3,7 @@
   "name": "google-translate",
   "title": "Google Translate",
   "description": "구글 번역",
-  "icon": "command-icon.png",
+  "icon": "icon.png",
   "author": "Kang",
   "owner": "doyou",
   "categories": [
